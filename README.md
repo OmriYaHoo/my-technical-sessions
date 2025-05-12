@@ -1,5 +1,8 @@
 # My Technical Sessions
 
+### 2025-01-28: NICE - Working with Localstack (Tech Session 14)
+[![Watch the video](https://img.youtube.com/vi/Pt_vOHEZQII/0.jpg)](https://youtu.be/Pt_vOHEZQII)
+
 ### 2023-11-30: NICE - Containers with Docker (Tech Session 3)
 [![Watch the video](https://img.youtube.com/vi/O2UUYjOnMqo/0.jpg)](https://youtu.be/O2UUYjOnMqo)
 
